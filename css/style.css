@@ -1,0 +1,11 @@
+* {
+	margin: auto;
+	padding: auto;
+}
+
+body {
+	background: pink;
+}
+#linesplit {
+	border: black 1px solid;
+}
